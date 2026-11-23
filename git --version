@@ -1,0 +1,7 @@
+{
+  "title": "Set up staging deployment pipeline",
+  "description": "Configure automated tests and preview deployments on pull requests to develop.",
+  "assignee_id": "usr_8f92c1a4-3b7e-4d21-9a65-112233445566",
+  "due_date": "2026-12-04",
+  "priority": "high"
+}
